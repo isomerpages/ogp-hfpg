@@ -6,10 +6,11 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h4>Pair Search</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A4_truncated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HS_Today.jpg">
 </div>
-<p>Try it out <a href="https://search.pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> today!</p>
+<p>Try it out the prototype <a href="https://search.pair.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> today!</p>
 <h4>The bigger picture - Search for Humans and Machines alike</h4>
 <p>A good decision is an informed one. Policy officers and a civic society
 need information to make decisions and learn about areas of public interest,
@@ -151,12 +152,12 @@ semantic, keyword-based, and ColbertV2 scores. Utilizing a hybrid score
 gives us significantly better performance than relying on just one metric,
 which tend to be overly biased towards one dimension of result quality</p>
 <h4>What's happening</h4>
-<p>We have currently soft-launched Pair Search (Hansard) with AGC, and a
-selection of users who frequently utilize Hansard Search, including Ministry
-of Law legal policy officers, Comm Ops officers at MCI and PMO, COS coordinators
-among others. We are averaging ~150 daily users and ~200 daily searches
-in the early days of our soft launch, and initial user feedback has been
-positive:</p>
+<p>We have currently soft-launched the Pair Search (Hansard) prototype with
+AGC, and a selection of users who frequently utilize Hansard Search, including
+Ministry of Law legal policy officers, Comm Ops officers at MCI and PMO,
+COS coordinators among others. We are averaging ~150 daily users and ~200
+daily searches in the early days of our soft launch, and initial user feedback
+has been positive:</p>
 <p><strong><em>"This will improve productivity by a few folds. Hansard search was the most painful thing previously"</em></strong><em> - MCI Policy Officer</em>
 </p>
 <p><strong><em>"Wah useful. Returns results much faster than the current one"</em></strong><em> - MHA Policy Officer #1</em> 
