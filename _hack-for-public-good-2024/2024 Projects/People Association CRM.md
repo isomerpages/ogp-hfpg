@@ -14,18 +14,17 @@ routing and approval seeking are manually done by the community officer
 are:</p>
 <ul>
 <li>
-<p>Arduous administrative process carried out by our COs using physical forms
-and manually carrying forms around for signatures. Right now it usually
+<p>An arduous administrative process carried out by our COs using physical
+forms and manually carrying forms around for signatures. Right now it usually
 takes <strong>3 weeks</strong> for each approval, which induces a lot of
 unnecessary stress and anxiety for the family who might be living paycheck
 to paycheck</p>
 </li>
 <li>
-<p>No consistency between different community centers with regard to this
-process</p>
+<p>Lack of consistency between different community centers about this process</p>
 </li>
 <li>
-<p>Data are not being digitally collected for better policy making</p>
+<p>Data are not being digitally collected for better policy-making</p>
 </li>
 </ul>
 <h4>Solution</h4>
