@@ -14,23 +14,19 @@ routing and approval seeking are manually done by the community officer
 are:</p>
 <ul>
 <li>
-<p>Arduous administrative process carried out by our COs using physical forms
-and manually carrying forms around for signatures. Right now it usually
+<p>An arduous administrative process carried out by our COs using physical
+forms and manually carrying forms around for signatures. Right now it usually
 takes <strong>3 weeks</strong> for each approval, which induces a lot of
 unnecessary stress and anxiety for the family who might be living paycheck
 to paycheck</p>
 </li>
 <li>
-<p>No consistency between different community centers with regard to this
-process</p>
+<p>Lack of consistency between different community centers about this process</p>
 </li>
 <li>
-<p>Data are not being digitally collected for better policy making</p>
+<p>Data are not being digitally collected for better policy-making</p>
 </li>
 </ul>
-<p><em>Side note: </em>PA is currently planning an external vendor contract
-to solve the above issues. The platform is projected to cost about 30 million
-SGD</p>
 <h4>Solution</h4>
 <p>We use our <a href="https://plumber.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Plumber</a> product
 (for workflow automation) in combination with Zendesk (for remote communication
@@ -75,8 +71,6 @@ policies</p>
 <p>Read more <a href="https://docs.google.com/presentation/d/1T5Crw7liZkdnR6Oa7U9365BV-I-66pstFv9g5xQz-zc/edit#slide=id.p" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Impact and Potential Growth</h4>
 <p>With our automation, approval time can be cut down to within the one day.</p>
-<p>PA is ready to bring in our solution, and looking to scale this beyond
-ComCare scheme to 100+ other schemes and ~250k citizens</p>
 <h4>Team Members</h4>
 <ul data-tight="true" class="tight">
 <li>
