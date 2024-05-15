@@ -56,6 +56,6 @@ you’re keen to pilot with us! :)&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Roster Monster Poster" src="/images/Roster_Monster_Poster___2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Roster Monster Poster" src="/images/Roster_Monster_Poster___3_2x.png">
 </div>
 <p></p>
