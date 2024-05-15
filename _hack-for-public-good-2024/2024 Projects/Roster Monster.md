@@ -54,7 +54,8 @@ you’re keen to pilot with us! :)&nbsp;</p>
 <br><a href="https://docs.google.com/document/d/1Q0ktw3shqIgFWIXnBWdbSQH-ZEl47F36Dl5hnAN9o3Y/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">User guide</a>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Roster_Monster_Poster1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Roster Monster Poster" src="/images/Roster_Monster_Poster___2.png">
 </div>
 <p></p>
