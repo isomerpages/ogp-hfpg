@@ -6,9 +6,12 @@ description: ""
 third_nav_title: 2024 Projects
 ---
 <h3>ERP X</h3>
+<blockquote>
+<p><strong>Join us in shaping the future of road payments. <a href="https://erpx.open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Find out more here.</a></strong>
+</p>
+</blockquote>
 <p><em>This is a Hackathon project for Open Government Product's Hack for Public Good 2024 (HFPG). HFPG projects can be implemented as pilots made available only for trial and feedback purposes.</em>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LTLgmK-xdDg?si=BSIc3IRW8GRMOKFB"></iframe>
 </div>
