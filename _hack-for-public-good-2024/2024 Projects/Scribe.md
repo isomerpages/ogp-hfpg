@@ -79,7 +79,7 @@ and product managers.</p>
 <img style="margin-left:0px;margin-top:0px;" height="183" width="624" src="https://lh7-us.googleusercontent.com/Vs-tRj595CbBe3yo4l9MEHhIRS1qLj_Aq8hCw-PyL4CexuyHo6ESEV3jiX3o8hLQGBjRfs16Lvzg8uHwhO-CqgDMASsHUk7Dpm3rx1_Ok3hRcMRRTt_pmHKYVHxk6nKI2JSOt0OJaQ4C0OATkpkjFhE">
 </div>
 <hr>
-<p>If you would like to use Scribe in your organisation, please email team@scribe.gov.sg.</p>
+<p>If you would like to use Scribe in your organisation, please email <strong>team@scribe.gov.sg</strong>.</p>
 <p>For more details on the Scribe prototype, please refer to our deck below.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-TrTHwUCHwbeBttNu-UOthOhYMDbmINuHIKV7DL8sTvPW3LeU8M7neSBv7HCMn9_cWSEc6YyFf3S1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
